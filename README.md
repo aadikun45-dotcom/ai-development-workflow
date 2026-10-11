@@ -19,14 +19,17 @@ This repository helps turn app ideas into maintainable, testable software withou
 
 ## Repository map
 
-- `docs/PROJECT_CHARTER.md` — purpose, scope, and success criteria.
-- `instructions/PROJECT_RULES.md` — reusable rules for AI-assisted development.
-- `templates/PRD_TEMPLATE.md` — product requirements template.
-- `templates/IMPLEMENTATION_PLAN.md` — staged implementation plan.
-- `templates/BUG_REPORT.md` — reproducible bug-report template.
-- `workflows/FEATURE_WORKFLOW.md` — idea-to-tested-feature process.
-- `workflows/RELEASE_WORKFLOW.md` — release and deployment process.
-- `checklists/QA_SECURITY_CHECKLIST.md` — pre-release quality and security checks.
+All nine starter files are kept in the repository root for simple navigation and convenient editing on mobile devices.
+
+- "README.md" — project overview and instructions.
+- "PROJECT_CHARTER.md" — purpose, scope, constraints, and success criteria.
+- "PROJECT_RULES.md" — rules for AI-assisted development.
+- "PRD_TEMPLATE.md" — product requirements template.
+- "IMPLEMENTATION_PLAN.md" — staged implementation plan.
+- "BUG_REPORT.md" — reproducible bug-report template.
+- "FEATURE_WORKFLOW.md" — idea-to-tested-feature process.
+- "RELEASE_WORKFLOW.md" — release and deployment process.
+- "QA_SECURITY_CHECKLIST.md" — quality and security checks before release.
 
 ## How to use it on a new project
 
